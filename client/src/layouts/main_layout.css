@@ -1,0 +1,9 @@
+.layout{  
+  color: black;
+  height: 100%;
+}
+
+.layout__item {
+    background-color: lightblue;
+    border: 1px solid black;
+  }

@@ -1,0 +1,9 @@
+.combobox {
+  background-color: #ffffff;
+}
+
+.combobox--centered {
+  width: 200px;
+  margin: auto;
+  padding-top: 10px;
+}

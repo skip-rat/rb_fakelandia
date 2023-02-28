@@ -1,0 +1,39 @@
+
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    /*align-items: flex-end;*/
+    align-content: flex-start;
+
+    width: 80%;
+    padding: 5%;
+}
+
+.form__text {
+    padding: 0% 5% 5% 0%;
+}
+
+.form__field {
+    /*background-color: #AAAAFF;*/
+}
+
+.form__field-valid {
+    border:2px solid #0000aa;
+}
+
+.form__field-invalid {
+    border:2px solid Tomato;
+}
+
+.form__field-textarea {
+    width: 100%;
+    margin: auto;
+}
+
+.form p {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 1.1em;
+    font-style: normal;
+}
+
